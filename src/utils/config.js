@@ -8,8 +8,8 @@
  * please modify line 15
  */
 
-export const dataSRC = 'API';
+//export const dataSRC = 'API';
 
-//export const dataSRC = 'mocked-data';
+export const dataSRC = 'mocked-data';
 
 export const URL_API = 'http://localhost:3000';
