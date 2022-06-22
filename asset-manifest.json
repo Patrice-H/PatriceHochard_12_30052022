@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PatriceHochard_12_30052022/static/css/main.56dc4336.css",
+    "main.js": "/PatriceHochard_12_30052022/static/js/main.37e3a5aa.js",
+    "static/media/logo.png": "/PatriceHochard_12_30052022/static/media/logo.1a9926ecd84f8a7a0db5.png",
+    "index.html": "/PatriceHochard_12_30052022/index.html",
+    "main.56dc4336.css.map": "/PatriceHochard_12_30052022/static/css/main.56dc4336.css.map",
+    "main.37e3a5aa.js.map": "/PatriceHochard_12_30052022/static/js/main.37e3a5aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56dc4336.css",
+    "static/js/main.37e3a5aa.js"
+  ]
+}
